@@ -1,0 +1,10 @@
+requests
+>pip install requests
+
+
+bs4
+>pip install beautifulsoup4
+
+
+plyer
+>pip install plyer
